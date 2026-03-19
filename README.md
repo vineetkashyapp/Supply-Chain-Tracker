@@ -68,3 +68,6 @@ Feel free to fork this project and improve it. Pull requests are welcome!
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
+<img width="1919" height="1019" alt="Screenshot 2026-03-19 140855" src="https://github.com/user-attachments/assets/354ab5e9-46a4-4a76-b537-c9fbd6414993" />
+
